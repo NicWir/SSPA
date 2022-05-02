@@ -14,7 +14,7 @@ Depends: R (>= 2.12), methods
 Suggests: BiocStyle, knitr, rmarkdown, genefilter, edgeR, DESeq
 VignetteBuilder: knitr
 URL: http://www.humgen.nl/MicroarrayAnalysisGroup.html
-Collate: 'zzz.R' 'numericalintegration.R' 'trimmingbinning.R'
+Collate: 'numericalintegration.R' 'trimmingbinning.R'
         'DistributionClass.R' 'PilotDataClass.R' 'SampleSizeClass.R'
         'bitriangular.R' 'deconvolution.R' 'conjugategradient.R'
         'Ferreira.R' 'tikhonov.R' 'powerandsamplesize.R' 'zzz.R'
